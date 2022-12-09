@@ -23,7 +23,7 @@ double deg2rad(double deg){
     }
     void showResult(double z, double deg) {
         cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%" << "\n" ;
-        cout << "Length of the resultant vector = " << z << "\n" ;
+        cout << "Length of the resultant vector = " << z << "\n" ; 
         cout << "Direction of the resultant vector (deg) = " << deg << "\n" ;
         cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%" << "\n" ;
     
